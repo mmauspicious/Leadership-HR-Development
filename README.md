@@ -21,14 +21,7 @@ Within each of the five units, responses were collected from four respondent gro
     9: Very Frequently
     10: Almost Always
 
-Objective:
-Based on the survey data, produce comprehensive outputs that include:
-
-    A detailed operational analysis
-    Individual, team, and organizational-level results
-    An actionable improvement plan
-
-The ultimate goal is to develop and nurture better managers within our organization.
+The objective is to analyze the survey data thoroughly and produce comprehensive outputs. This includes conducting a detailed operational analysis, evaluating results at the individual, team, and organizational levels, and developing an actionable improvement plan. The ultimate goal is to develop and nurture better managers within our organization.
 
 This project is inspired by [The Leadership Challenge: Activities Book - Barry Posner, Elaine Biech, and James M. Kouzes].
 
