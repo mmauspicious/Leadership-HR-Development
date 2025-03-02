@@ -3,7 +3,7 @@
 We conducted a survey across five organizational units—Technical, Quality, Product, HR, and R&D Managers—with the results compiled into a CSV file. For this survey, we asked 30 questions, as detailed in the questionnaire file provided in [1]. Each question is aligned with one of the Five Practices of Exemplary Leadership:
 
     Model The Way
-    Inspire a Vision
+    Inspire a Shared Vision
     Challenge the Process
     Enable Others to Act
     Encourage the Heart
